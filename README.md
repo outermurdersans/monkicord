@@ -6,4 +6,5 @@ Monkicord includes many features, such as:
 - Message sending
 - Resize
 - Custom chat and open keybinds
+
 And more.
