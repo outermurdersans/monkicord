@@ -1,4 +1,4 @@
-Monkicord is a discord quick-chat selbot app that was made for when you want to say something in discord quickly without having to open it.
+Monkicord is a discord quick-chat selbot app that was made for being able to say something in discord quickly without having to open it.
 Monkicord includes many features, such as:
 - Chat history
 - Channel switching
